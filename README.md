@@ -42,8 +42,6 @@ Cisco Packet Tracer project implementing EIGRP for IPv4 and IPv6 with default ro
 - R3 and R4 can ping the IPv6 server.  
 - IPv6 server can ping all loopback addresses on R3 and R4.  
 
-## Topology
-(Add a screenshot of your Packet Tracer topology here, e.g. `images/topology.png`)
 
 ## Usage
 1. Open the `.pkt` file in Cisco Packet Tracer 8.x.  
